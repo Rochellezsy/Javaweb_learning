@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Location</title>
+    <script>
+
+
+    </script>
+</head>
+<body>
+<input type="button" id="btn" value="刷新">
+<input type="button" id="gotobaidu" value="去百度">
+<script>
+    var btn = document.getElementById(btn);
+    btn.onclick=function () {
+        location.reload();
+    }
+
+    var href = location.href;
+    var gotobaidu = document.getElementById("gotobaidu");
+    gotobaidu.onclick=function () {
+        location.href="http://www.baidu.com";
+    }
+
+
+</script>
+
+
+</body>
+</html>
