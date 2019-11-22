@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b72fa4-96e1-4ce0-a452-bc878781d338" name="Default Changelist" comment="" />
+    <list default="true" id="d7b72fa4-96e1-4ce0-a452-bc878781d338" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_javascript高级/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_javascript高级/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_javascript高级/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_javascript高级/案例5_表格全选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_javascript高级/案例6_表单验证.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +38,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TmvGsHuBZ7eGd6xopYEBsqklfJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
@@ -172,11 +185,37 @@
       <workItem from="1574234688613" duration="1939000" />
       <workItem from="1574253908289" duration="318000" />
       <workItem from="1574254229884" duration="202000" />
-      <workItem from="1574254445253" duration="5086000" />
+      <workItem from="1574254445253" duration="5237000" />
+      <workItem from="1574423659024" duration="5576000" />
     </task>
+    <task id="LOCAL-00001" summary="动态表格案例（Javascript）">
+      <created>1574427362890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574427362890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="动态表格案例（Javascript）" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态表格案例（Javascript）" />
   </component>
 </project>
